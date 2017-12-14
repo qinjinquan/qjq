@@ -13,3 +13,5 @@ public class Wanshu {
                     System.out.println(i*100+j*10+k);  
  }    
     System.out.println (t);  
+ }
+}
